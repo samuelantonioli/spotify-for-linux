@@ -26,7 +26,7 @@ Please support your favourite musicians!
 
     # install nwjs: https://nwjs.io
     # clone this repo
-    git clone https://.../spotify-linux.git && cd spotify-linux
+    git clone https://github.com/samuelantonioli/spotify-for-linux.git && cd spotify-for-linux
 
     # start spotify
     $ ./start
