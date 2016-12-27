@@ -1,0 +1,3 @@
+#!/bin/bash
+nw . --proxy-pac-url="file://$(pwd)/pac.js" &> /dev/null &
+

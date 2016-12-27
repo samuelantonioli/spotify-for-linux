@@ -1,0 +1,16 @@
+{
+    "name": "Spotify",
+    "main": "https://play.spotify.com",
+    "webkit": {
+        "plugin": true
+    },
+    "window": {
+        "toolbar": false,
+        "position": "center",
+        "width": 1200,
+        "height": 600
+    },
+    "version": "1.0.0",
+    "chromium-args": "--incognito --ppapi-flash-path=plugins/libpepflashplayer.so"
+}
+
